@@ -31,11 +31,11 @@ The dashboard consolidates **NSE (India)** and **S&P (US)** market data, enablin
 ---
 
 ## 📷 Screenshots
-### NSE Dashboard – Example: ADANIGREEN
-![NSE Dashboard](screenshot/Dashboard1.png)
+### NSE Dashboard
+![NSE Dashboard](screenshot/Dashboard2.png)
 
-### S&P Dashboard – Example: Apple (AAPL)
-![S&P Dashboard](screenshot/Dashboard2.png)
+### S&P Dashboard
+![S&P Dashboard](screenshot/Dashboard3.png)
 
 ---
 
