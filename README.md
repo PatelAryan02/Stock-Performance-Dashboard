@@ -39,5 +39,9 @@ The dashboard consolidates **NSE (India)** and **S&P (US)** market data, enablin
 
 ---
 
-## 👨‍💻 Author
-**Developed by:** Aryan Dharmesh Patel  
+## 📬 Contact  
+👤 **Aryan Dharmesh Patel**  
+- 💼 Power BI Developer | Full Stack Developer  
+- 🔗 [LinkedIn](www.linkedin.com/in/aryan-patel-ap02)
+- 🔗 [Portfolio](https://www.datascienceportfol.io/aryan_dharmesh_patel)
+- 📧 aryanpatelaryan81@gmail.com 
