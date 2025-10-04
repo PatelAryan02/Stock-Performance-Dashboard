@@ -1,4 +1,4 @@
-# 📊 Stock Performance Dashboard (Daxal Cosmetics)
+# 📊 Stock Performance Dashboard
 
 ## 📝 Project Description
 Designed and developed an **interactive Stock Performance Dashboard** to provide the **CEO and leadership team** with real-time insights into **stock performance, trends, and decision support**.  
